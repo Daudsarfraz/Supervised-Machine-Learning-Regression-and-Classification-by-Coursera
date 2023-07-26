@@ -62,10 +62,12 @@ We would like to express our gratitude to Coursera for offering this course and 
 
 ## Let's Connect!
 We hope you find this repository valuable in your journey to becoming a proficient machine learning practitioner. Let's connect on <b> LinkedIn </b> and <b> GitHub </b> stay updated on future courses and projects! Feel free to reach out with any questions or suggestions.
+Happy Learning! 🌟🤖
+</br>
  <a href = "https://www.linkedin.com/in/dawood-sarfraz-0466541b6">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
-Happy Learning! 🌟🤖
+
 
 ## Getting Started
 
