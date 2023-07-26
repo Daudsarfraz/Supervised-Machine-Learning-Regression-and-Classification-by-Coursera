@@ -71,7 +71,12 @@ Happy Learning! 🌟🤖
  <a href = "https://www.linkedin.com/in/dawood-sarfraz-0466541b6">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
+<a href = "https://github.com/Daudsarfraz">
+   <img src = "https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
 
+ </p>
+ 
 ## Getting Started
 
 To get started with the course materials, simply clone this repository to your local machine:
@@ -79,10 +84,4 @@ To get started with the course materials, simply clone this repository to your l
 ```bash
 git clone https://github.com/your-username/Supervised-Machine-Learning-Regression-and-Classification-by-Coursera.git
 
-    
-<a href = "https://github.com/Daudsarfraz">
-   <img src = "https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</a>
-
- </p>
 
