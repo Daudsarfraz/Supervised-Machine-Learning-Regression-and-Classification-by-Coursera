@@ -1,7 +1,5 @@
 # Supervised Machine Learning: Regression and Classification by Coursera
 
-![Coursera Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Coursera_logo.svg/1920px-Coursera_logo.svg.png)
-
 Welcome to the repository for the course "Supervised Machine Learning: Regression and Classification" offered on Coursera! 🚀📈
 
 ## About the Course
