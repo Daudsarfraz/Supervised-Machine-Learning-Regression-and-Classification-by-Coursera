@@ -76,7 +76,6 @@ Happy Learning! 🌟🤖
 </a>
 
  </p>
- </br>
  
 ## Getting Started
 
