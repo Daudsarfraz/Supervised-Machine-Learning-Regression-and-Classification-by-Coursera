@@ -76,7 +76,7 @@ Happy Learning! 🌟🤖
 </a>
 
  </p>
- 
+ <br>
 ## Getting Started
 
 To get started with the course materials, simply clone this repository to your local machine:
