@@ -61,7 +61,7 @@ Feel free to explore the folders and dive into the content. Remember, practice a
 We would like to express our gratitude to Coursera for offering this course and providing valuable resources. The course instructors and content creators have contributed significantly to the field of machine learning education.
 
 ## Let's Connect!
-We hope you find this repository valuable in your journey to becoming a proficient machine learning practitioner. Let's connect on ![LinkedIn](a href = "https://www.linkedin.com/in/dawood-sarfraz-0466541b6") and ![GitHub](https://github.com/Daudsarfraz) stay updated on future courses and projects! Feel free to reach out with any questions or suggestions.
+We hope you find this repository valuable in your journey to becoming a proficient machine learning practitioner. Let's connect on ![LinkedIn]("https://www.linkedin.com/in/dawood-sarfraz-0466541b6") and ![GitHub](https://github.com/Daudsarfraz) stay updated on future courses and projects! Feel free to reach out with any questions or suggestions.
 
 Happy Learning! 🌟🤖
 
